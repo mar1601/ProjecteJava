@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjecteJava.iml" filepath="$PROJECT_DIR$/ProjecteJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.institutmvm.aplication/com.institutmvm.aplication.iml" filepath="$PROJECT_DIR$/com.institutmvm.aplication/com.institutmvm.aplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.institutmvm.controller/com.institutmvm.controller.iml" filepath="$PROJECT_DIR$/com.institutmvm.controller/com.institutmvm.controller.iml" />
+    </modules>
+  </component>
+</project>
